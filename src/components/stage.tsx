@@ -15,7 +15,6 @@ export const StageComponent: FC = () => {
     changeSize,
     stageRef,
   } = useStage();
-  console.log(lines);
   
   return (
     <div>
